@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
+    "name":"MenekoTools",
     "id":"com.MonadoArt.example-listing",
     "url":"https://monadoart.github.io/MenekoTools/index.json",
     "author":{
         "email":"michabych9@gmail.com",
-        "name":"MB",
+        "name":"Monado_Art",
         "url":""
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing for a variety of small VRC tools",
     "infoLink":{
-        "url":"https://MonadoArt.github.io/MenekoTools-listing",
+        "url":"https://MonadoArt.github.io/MenekoTools",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
