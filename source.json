@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
     "id":"com.MonadoArt.example-listing",
-    "url":"https://MonadoArt.github.io/MenekoTools-listing/index.json",
+    "url":"https://monadoart.github.io/MenekoTools/index.json",
     "author":{
         "email":"michabych9@gmail.com",
         "name":"MB",
