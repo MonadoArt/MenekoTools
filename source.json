@@ -1,15 +1,15 @@
 {
     "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "id":"com.MonadoArt.example-listing",
+    "url":"https://MonadoArt.github.io/MenekoTools-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"michabych9@gmail.com",
+        "name":"MB",
+        "url":""
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://MonadoArt.github.io/MenekoTools-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
